@@ -32,5 +32,5 @@ CarvisLabs is dedicated to building futuristic AI assistants for mobility and be
 
 ## 📬 Contact
 For questions or collaborations, reach out at:  
-📧 your-email@example.com  
+📧 aasheeshdigital@gmail.com  
 
